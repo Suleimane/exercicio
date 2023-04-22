@@ -4,3 +4,5 @@ terceito commit
 novo branch
 alteracoes do amigo
 commit direto no branch main
+alteração feat2
+segundo commit direto no main
